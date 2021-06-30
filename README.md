@@ -1,24 +1,5 @@
-# README
+# ”アプリケーションを完成させよう”の課題です。
+ご確認をお願いいたします
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#　使い方
+自分の好きな本について感想や画像を投稿できます。登録は不要です。
